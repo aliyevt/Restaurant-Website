@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.navbar{
+  height: 90px;
+  position: sticky;
+  top: 0;
+  padding-left: 50px;
+  background-color: #181818;
+  z-index: 99;
+}
+.navbar a{
+  color: white;
+  text-decoration: none;
+  margin-left: 40px;
+  font-size: 21px;
+}
+.app1{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 60px;
+  color: white;
+  margin-left: 47px;
+  position: relative;
+  top: 10px;
+}

@@ -1,0 +1,98 @@
+.ml{
+    font-size: 60px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.ml2{
+    width: 1270px;
+    height: 600px;
+    margin-left: 75px;
+    margin-top: 20px;
+    object-fit: cover;
+    background-size: cover;
+}
+.ml3{
+    text-align: center;
+    font-size: 55px;
+    font-weight: 400;
+    margin-top: 50px;
+}
+.hm7{
+    margin-left: 29px;
+}
+.ml4{
+    background-color: white;
+    border: 1px solid gray;
+    padding: 19px 0px;
+    width: 300px;
+    transition: 0.5s;
+    cursor: pointer;
+    font-size: 23px;
+    margin-left: 30px;
+}
+.ml4:hover{
+    background-color: black;
+    color: white;
+}
+.ml5{
+display: flex;
+justify-content: center;
+}
+.ml7{
+    width: 958px;
+    height: 550px;
+    object-fit: cover;
+    background-size: cover;
+}
+.ml8{
+  margin-left: 295px;
+    margin-top: 50px;
+}
+.ml9{
+    font-size: 57px;
+    font-weight: 400;
+    margin-top: 70px;
+    margin-left: 130px;
+}
+.ml10{
+    width: 1100px;
+    height: 550px;
+    margin-left: 133px;
+    margin-top: 30px;
+    object-fit: cover;
+    background-size: cover;
+}
+.ml11{
+    font-size: 57px;
+    font-weight: 400;
+    margin-left: 120px;
+}
+.ml12{
+    text-align: center;
+    font-size: 47px;
+    font-weight: 400;
+    margin-top: 60px;
+}
+.ml15{
+    font-size: 37px;
+}
+.ml14{
+    width: 74px;
+    height: 74px;
+    padding-left: 17px;
+    padding-top: 13px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.ml14:hover{
+    box-shadow: 0 0 7px rgb(0, 0, 0)
+}
+.ml13{
+    display: flex;
+    justify-content: center;
+    margin-top: 21px;
+}

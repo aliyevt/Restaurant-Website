@@ -1,0 +1,158 @@
+.dk1{
+    width: 1200px;
+    height: 590px;
+    margin-left: 111px;
+    margin-top: 30px;
+    object-fit: cover;
+    background-size: cover;
+}
+.dk3{
+    width: 285px;
+    height: 440px;
+    object-fit: cover;
+    background-size: cover;
+    margin-left: 225px;
+}
+.dk5{
+    text-align: center;
+    font-weight: 400;
+    font-size: 57px;
+}
+.dk7{
+   width: 120px;
+   height: 445px;
+   margin-left: 50px;
+   object-fit: cover;
+   background-size: cover;
+}
+.dk8{
+    width: 150px;
+    height: 445px;
+    margin-left: 50px;
+    object-fit: cover;
+    background-size: cover;
+ }
+ .dk9{
+    width: 110px;
+    height: 440px;
+    margin-left: 50px;
+    object-fit: cover;
+    background-size: cover;
+}
+.dk10{
+    width: 110px;
+    height: 460px;
+    margin-left: 50px;
+    object-fit: cover;
+    background-size: cover;
+}
+.dk11{
+    width: 180px;
+    height: 460px;
+    margin-left: 50px;
+    object-fit: cover;
+    background-size: cover;
+}
+.dk12{
+    display: flex;
+    flex-direction: column;
+}
+.dk13{
+    display: flex;
+}
+.dk15{
+    display: flex;
+}
+.dk16{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.dk14{
+    font-weight: 400;
+    margin-left: 50px;
+    padding-top: 170px;
+}
+.dk17{
+    font-weight: 400;
+    margin-left: 50px;
+    padding-top: 170px;
+}
+.dk18{
+    width: 1000px;
+    height: 550px;
+    margin-top: 50px;
+    margin-left: 260px;
+    object-fit: cover;
+    background-size: cover;
+}
+.dk19{
+    text-align: center;
+    font-weight: 400;
+    font-size: 57px;
+    margin-top: 90px;
+}
+.dk20{
+    font-size: 57px;
+    font-weight: 400;
+    margin-left: 170px;
+    margin-top: 100px;
+}
+.dk21{
+    width: 1170px;
+    height: 570px;
+    margin-top: 35px;
+    margin-left: 174px;
+    object-fit: cover;
+    background-size: cover;
+}
+.dk22{
+    width: 800px;
+    height: 490px;
+    object-fit: cover;
+    background-size: cover;
+}
+.dk23{
+    font-size: 44px;
+    margin-left: 100px;
+    font-weight: 400;
+}
+.dk24{
+    margin-top: 40px;
+    margin-left: 25px;
+}
+.dk25{
+    width: 1100px;
+    height: 640px;
+    margin-top: 35px;
+    margin-left: 103px;
+    object-fit: cover;
+    background-size: cover;
+}
+.dk26{
+    text-align: center;
+    font-weight: 400;
+    margin-top: 80px;
+    font-size: 53px;
+}
+.dk27{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.dk29{
+    font-size: 37px;
+}
+.dk28{
+    width: 74px;
+    height: 74px;
+    padding-left: 17px;
+    padding-top: 13px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid rgb(0, 0, 0)
+}
+.dk28:hover{
+    box-shadow: 0 0 7px black;
+}

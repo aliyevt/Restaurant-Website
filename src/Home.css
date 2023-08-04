@@ -1,0 +1,205 @@
+.h1{
+    background: url(steak.jpg);
+    width: 100%;
+    height: 88vh;
+    object-fit: cover;
+    background-size: cover;
+}
+.h2{
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 60px;
+    margin-left: 477px;
+    padding-top: 187px;
+}
+.h3{
+    font-weight: 400;
+    margin-left: 477px;
+    font-size: 37px; 
+}
+.h6{
+    font-size: 31px;
+}
+.h5{
+    width: 67px;
+    height: 67px;
+    padding-left: 17px;
+    padding-top: 13px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid rgb(0, 0, 0)
+}
+.h4{
+    margin-left: 697px;
+    margin-top: -57px;
+}
+.h5:hover{
+    box-shadow: 0 0 7px rgb(0, 0, 0);
+}
+.h7{
+    font-weight: 400;
+    text-align: center;
+    font-size: 57px;
+    margin-top: 57px;
+}
+.h9{
+    width: 717px;
+    height: 447px;
+    object-fit: cover;
+    background-size: cover;
+    margin-left: 10px;
+}
+.h8{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    margin-top: 57px;
+    justify-content: center;
+    letter-spacing: 1.2px;
+}
+.h11{
+    width: 97%;
+    height: 100vh;
+    text-align: center;
+    margin-left: 17px;
+}
+.h10{
+    font-weight: 400;
+    margin-top: 37px;
+}
+.h12{
+    font-weight: 400;
+}
+.h13{
+    font-weight: 400;
+    text-align: center;
+    font-size: 57px;
+}
+.h14{
+    width: 1277px;
+    height: 577px;
+    margin-left: 120px;
+    object-fit: cover;
+    background-size: cover;
+}
+.h15{
+    font-weight: 400;
+    font-size: 44px;
+    margin-top: 10px;
+    text-align: center;
+}
+.h16{
+   font-size: 60px;
+   font-weight: 400;
+   margin-left: 120px;
+   margin-top: 30px;
+}
+.h17{
+    width: 1290px;
+    height: 557px;
+    margin-left: 125px;
+    object-fit: cover;
+    background-size: cover;
+    margin-top: 30px;
+}
+.h18{
+    font-weight: 400;
+}
+.h19{
+    font-weight: 400;
+}
+.h20{
+    font-weight: 400;
+}
+.h21{
+    margin-left: 122px;
+    margin-top: 30px;
+}
+.h22{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-top: 60px;
+    font-size: 50px;
+}
+.h25{
+    font-size: 37px;
+}
+.h24{
+    width: 74px;
+    height: 74px;
+    padding-left: 17px;
+    padding-top: 13px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid rgb(0, 0, 0)
+}
+.h23{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.h24:hover{
+    box-shadow: 0 0 7px black;
+}
+.h26{
+    background-color: black;
+    width: 100%;
+    height: 60vh;
+    margin-top: 70px;
+}
+.h27{
+   color: white;
+   font-size: 40px;
+   font-weight: 400;
+   padding: 37px 77px;
+}
+.h28{
+    color: white;
+    font-weight: 400;
+    margin-left: 81px;
+}
+.h29{
+    margin-top: -27px;
+}
+.h30{
+    display: flex;
+}
+.h31{
+    color: white;
+    font-weight: 400;
+    margin-top: 95px;
+}
+.h32{
+    color: white;
+    font-weight: 400;
+}
+.h33{
+    margin-top: 140px;
+    margin-left: 130px;
+}
+.h34{
+    color: white;
+    font-weight: 400;
+    margin-left: -2px;
+}
+.h35{
+    margin-top: 45px;
+    margin-left: 200px;
+}
+.h37{
+    color: white;
+    font-size: 40px;
+    margin-left: 30px;
+}
+.h38{
+    display: flex;
+    margin-top: 10px;
+    margin-left: -35px;
+}
+.h39{
+    color: white;
+    font-weight: 400;
+}

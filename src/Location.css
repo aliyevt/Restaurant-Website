@@ -1,0 +1,52 @@
+.lc{
+    font-size: 57px;
+    font-weight: 400;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.lc1{
+    width: 1100px;
+    height: 570px;
+    margin-left: 105px;
+    margin-top: 30px;
+    object-fit: cover;
+    background-size: cover;
+}
+.lc2{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.lc3{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid gray;
+    padding: 17px 0px;
+    width: 250px;
+    font-size: 20px;
+    margin-left: 17px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.lc3:hover{
+background-color: black;
+color: white;
+}
+.lc4{
+    text-align: center;
+    font-weight: 400;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.lc5{
+    margin-left: 110px;
+    margin-top: 40px;
+}
+.lc6{
+    margin-top: 30px;
+    font-weight: 400;
+    margin-left: 113px;
+}
+.lc7{
+    font-weight: 400;
+    margin-left: 113px;
+}
